@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="SeeMovie">See first Movie</string>
+    <string name="SeeAllData">See all Datas</string>
+    <string name="ID">ID</string>
+    <string name="FindID">Find by ID</string>
+    <string name="Find">Find</string>
+    <string name="Error_required_field">Required ID</string>
+    <string name="Release">Release date</string>
+    <string name="Name">Name</string>
+    <string name="Description">Description</string>
+</resources>
